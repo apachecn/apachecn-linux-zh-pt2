@@ -36,7 +36,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 你的代码很好,但它下一秒就是我的了。
+> 是以圣人处无为之事，行不言之教，万物作焉而不始，生而不有，为而不恃，功成而弗居。——道德经
 
 * [在线阅读](https://{domain}.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
